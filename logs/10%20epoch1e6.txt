@@ -1,0 +1,282 @@
+epoch 1:
+Class: negative
+Accuracy: 1140/1523
+
+Class: positive
+Accuracy: 1170/1530
+
+Class: neutral
+Accuracy: 102/858
+
+Overall, correct predict is 2412, acc is 0.6167220659677832
+--------------------------------------
+
+
+epoch 2:
+Class: negative
+Accuracy: 1178/1523
+
+Class: positive
+Accuracy: 1064/1530
+
+Class: neutral
+Accuracy: 289/858
+
+Overall, correct predict is 2531, acc is 0.6471490667348504
+--------------------------------------
+
+
+epoch 3:
+Class: negative
+Accuracy: 1114/1523
+
+Class: positive
+Accuracy: 1101/1530
+
+Class: neutral
+Accuracy: 342/858
+
+Overall, correct predict is 2557, acc is 0.6537969828688315
+--------------------------------------
+
+
+epoch 4:
+Class: negative
+Accuracy: 1151/1523
+
+Class: positive
+Accuracy: 1108/1530
+
+Class: neutral
+Accuracy: 317/858
+
+Overall, correct predict is 2576, acc is 0.6586550754282792
+--------------------------------------
+
+
+epoch 5:
+Class: negative
+Accuracy: 1127/1523
+
+Class: positive
+Accuracy: 1122/1530
+
+Class: neutral
+Accuracy: 336/858
+
+Overall, correct predict is 2585, acc is 0.6609562771669649
+--------------------------------------
+
+
+epoch 6:
+Class: negative
+Accuracy: 1129/1523
+
+Class: positive
+Accuracy: 1136/1530
+
+Class: neutral
+Accuracy: 317/858
+
+Overall, correct predict is 2582, acc is 0.6601892099207364
+--------------------------------------
+
+
+epoch 7:
+Class: negative
+Accuracy: 1138/1523
+
+Class: positive
+Accuracy: 1118/1530
+
+Class: neutral
+Accuracy: 332/858
+
+Overall, correct predict is 2588, acc is 0.6617233444131936
+--------------------------------------
+
+
+epoch 8:
+Class: negative
+Accuracy: 1155/1523
+
+Class: positive
+Accuracy: 1074/1530
+
+Class: neutral
+Accuracy: 368/858
+
+Overall, correct predict is 2597, acc is 0.6640245461518793
+--------------------------------------
+
+
+epoch 9:
+Class: negative
+Accuracy: 1140/1523
+
+Class: positive
+Accuracy: 1074/1530
+
+Class: neutral
+Accuracy: 365/858
+
+Overall, correct predict is 2579, acc is 0.6594221426745078
+--------------------------------------
+
+
+epoch 10:
+Class: negative
+Accuracy: 1115/1523
+
+Class: positive
+Accuracy: 1109/1530
+
+Class: neutral
+Accuracy: 355/858
+
+Overall, correct predict is 2579, acc is 0.6594221426745078
+--------------------------------------
+
+
+epoch 11:
+Class: negative
+Accuracy: 1108/1523
+
+Class: positive
+Accuracy: 1124/1530
+
+Class: neutral
+Accuracy: 332/858
+
+Overall, correct predict is 2564, acc is 0.6555868064433649
+--------------------------------------
+
+
+epoch 12:
+Class: negative
+Accuracy: 1162/1523
+
+Class: positive
+Accuracy: 1091/1530
+
+Class: neutral
+Accuracy: 330/858
+
+Overall, correct predict is 2583, acc is 0.6604448990028126
+--------------------------------------
+
+
+epoch 13:
+Class: negative
+Accuracy: 1106/1523
+
+Class: positive
+Accuracy: 1122/1530
+
+Class: neutral
+Accuracy: 344/858
+
+Overall, correct predict is 2572, acc is 0.6576323190999744
+--------------------------------------
+
+
+epoch 14:
+Class: negative
+Accuracy: 1107/1523
+
+Class: positive
+Accuracy: 1124/1530
+
+Class: neutral
+Accuracy: 341/858
+
+Overall, correct predict is 2572, acc is 0.6576323190999744
+--------------------------------------
+
+
+epoch 15:
+Class: negative
+Accuracy: 1140/1523
+
+Class: positive
+Accuracy: 1084/1530
+
+Class: neutral
+Accuracy: 355/858
+
+Overall, correct predict is 2579, acc is 0.6594221426745078
+--------------------------------------
+
+
+epoch 16:
+Class: negative
+Accuracy: 1113/1523
+
+Class: positive
+Accuracy: 1115/1530
+
+Class: neutral
+Accuracy: 338/858
+
+Overall, correct predict is 2566, acc is 0.6560981846075172
+--------------------------------------
+
+
+epoch 17:
+Class: negative
+Accuracy: 1121/1523
+
+Class: positive
+Accuracy: 1111/1530
+
+Class: neutral
+Accuracy: 338/858
+
+Overall, correct predict is 2570, acc is 0.6571209409358221
+--------------------------------------
+
+
+epoch 18:
+Class: negative
+Accuracy: 1132/1523
+
+Class: positive
+Accuracy: 1089/1530
+
+Class: neutral
+Accuracy: 350/858
+
+Overall, correct predict is 2571, acc is 0.6573766300178983
+--------------------------------------
+
+
+epoch 19:
+Class: negative
+Accuracy: 1116/1523
+
+Class: positive
+Accuracy: 1109/1530
+
+Class: neutral
+Accuracy: 346/858
+
+Overall, correct predict is 2571, acc is 0.6573766300178983
+--------------------------------------
+
+
+epoch 20:
+Class: negative
+Accuracy: 1119/1523
+
+Class: positive
+Accuracy: 1107/1530
+
+Class: neutral
+Accuracy: 344/858
+
+Overall, correct predict is 2570, acc is 0.6571209409358221
+--------------------------------------
+
+
+The best accuracy is 0.6640245461518793
+​
